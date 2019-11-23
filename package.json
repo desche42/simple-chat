@@ -1,6 +1,6 @@
 {
   "name": "simple-chat",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "server": "nodemon --watch socket.js --watch middlewares --watch public --watch routes --watch views --watch app.js ./bin/www",
